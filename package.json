@@ -1,0 +1,27 @@
+{
+  "name": "starwars-name",
+  "version": "1.0.0",
+  "description": "Get a random Star Wars name",
+  "main": "src/index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/irwing-reza/starwars-names.git"
+  },
+  "keywords": [
+    "random",
+    "star",
+    "wars"
+  ],
+  "author": "Irwing Reza <irwing85@gmail.com> (http://irwingreza.com/)",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/irwing-reza/starwars-names/issues"
+  },
+  "homepage": "https://github.com/irwing-reza/starwars-names#readme",
+  "dependencies": {
+    "unique-random-array": "1.0.0"
+  }
+}
